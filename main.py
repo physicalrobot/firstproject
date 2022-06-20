@@ -54,7 +54,6 @@ class linked_list:
                 last_node.next = cur_node.next
                 return
             cur_idx += 1
-asdfa
 
 my_list = linked_list()
 my_list.append(1)
@@ -71,7 +70,7 @@ my_list.display()
 print(my_list.length())
 print("element at 2nd index:%d" % my_list.get(2))
 
-
+print('whoopty')
 # Press the green button in the gutter to run the script.
 # if __name__ == '__main__':
 #     print_hi('PyCharm')
